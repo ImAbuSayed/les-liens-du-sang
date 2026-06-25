@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Liens Du Sang
+
+This log tracks the cryptographic history and versioning for the song **Les Liens Du Sang** (les-liens-du-sang).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:03:26.427223 | `v1` | `d49ff941ca8437b9e9d92bfd5c6e242dc8ae02bcbc4bb615c0671c970be3fe8d` | `c04a8045e3055a4163bf35d51679731627fd56a0968268009df6ddb275fbcf05` | `2026-06-26_les-liens-du-sang-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

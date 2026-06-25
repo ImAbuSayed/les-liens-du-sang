@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-liens-du-sang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Liens Du Sang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-liens-du-sang/) |
+| **Get License** | [Secure Licensing Rights for Les Liens Du Sang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-liens-du-sang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d49ff941ca8437b9e9d92bfd5c6e242dc8ae02bcbc4bb615c0671c970be3fe8d` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
